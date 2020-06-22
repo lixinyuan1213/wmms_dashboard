@@ -6,11 +6,11 @@
 
 1. 新增remark（可以为空。不为空时，最少字数为1，最大为200）字段
 
-   ![](images/remark.jpg)
+   ![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/remark.jpg)
 
 2. 缴费时新增缴费方式字段。
 
-    ![](images/payment.jpg)
+    ![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/payment.jpg)
 
 ## 二、功能实现
 
