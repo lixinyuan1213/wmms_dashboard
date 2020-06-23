@@ -4,6 +4,26 @@
 
 ### 2020-06-22
 
+#### 首页统计
+
+1. 按照月/季度获取平台（或者个人）用水量
+
+      ![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/readermonth.jpg)
+
+2. 按照月/季度获取平台（或者个人）缴费情况
+      ![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/paymonth.jpg)
+
+3. 一次性获取平台（或者个人）用月/季度水量和缴费情况
+      ![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/alls.jpg)
+      
+4. 一次性获取首页的统计信息（用户总数、设备总数、抄表次数、支付次数、支付总额、用水总数）
+ ![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/zonghe.jpg)
+ 
+5. 各自获取用户总数、设备总数、抄表次数、支付次数、支付总额、用水总数
+ ![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/youall.jpg)
+
+### 2020-06-22
+
 1. 新增remark（可以为空。不为空时，最少字数为1，最大为200）字段
 
    ![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/remark.jpg)
