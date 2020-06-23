@@ -10,17 +10,29 @@
 
       ![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/readermonth.jpg)
 
+      对应：
+      ![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/dui1.jpg)
+      
 2. 按照月/季度获取平台（或者个人）缴费情况
       ![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/paymonth.jpg)
+ 对应：
+      ![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/dui1.jpg)
 
 3. 一次性获取平台（或者个人）用月/季度水量和缴费情况
       ![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/alls.jpg)
+
+       对应：
+      ![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/dui1.jpg)
       
 4. 一次性获取首页的统计信息（用户总数、设备总数、抄表次数、支付次数、支付总额、用水总数）
- ![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/zonghe.jpg)
- 
+    ![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/zonghe.jpg)
+
+    对应：
+
+    ![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/dui2.jpg)
+
 5. 各自获取用户总数、设备总数、抄表次数、支付次数、支付总额、用水总数
- ![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/youall.jpg)
+    ![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/youall.jpg)
 
 ### 2020-06-22
 
