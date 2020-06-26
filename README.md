@@ -2,6 +2,15 @@
 
 ## 一、接口更新日志
 
+### 2020-06-26
+
+#### 异常统计：
+接口：
+      ![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/yichangjiekou.jpg)
+大概的界面：
+
+![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/ecsm.jpg)
+
 ### 2020-06-25
 
 #### 1.系统菜单管理
