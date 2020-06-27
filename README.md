@@ -15,7 +15,7 @@
 
 #### 1.系统菜单管理
 
-（1）、菜单的新增、获取、删除、更新、列表查询接口如下图所示。特别说明，菜单没有上级时传，字段“parentId”传“-1”。
+（1）、菜单的新增、获取、删除、更新、列表查询接口如下图所示。特别说明，菜单没有上级时传，字段“parentId”传“-1”。父级id可以通过接口“/sysMenu/menus”（即登录用户获取菜单）来查询。
       ![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/menu1.jpg)
 
 
