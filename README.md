@@ -2,6 +2,25 @@
 
 ## 一、接口更新日志
 
+### 2020-06-30
+
+缴费记录按照年、月、季度统计的数据导出，缴费数据的导出（最好要求按照一定的时间段查询后导出，导出全部可能会导致服务器内存溢出）
+   ![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/jiaofeidaochu.jpg)
+
+
+
+用水记录按照年、月、季度统计的数据导出
+
+![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/yongshuijilu.jpg)
+
+
+
+导出欠费情况:
+
+![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/qianfei.jpg)
+
+
+
 ### 2020-06-26
 
 #### 异常统计：
