@@ -4,12 +4,12 @@
 
 ### 2020-07-01
 
-1. ##### 用水缴费接口需要新增一个显示余额的地方，另外需要允许管理员收入实际的缴费金额
+1. #### 用水缴费接口需要新增一个显示余额的地方，另外需要允许管理员收入实际的缴费金额
 
    界面大概如下：
       ![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/jiaofeijiekouxiugai.jpg)
 
-2. 新增余额查询接口，管理员需要看到余额
+2. #### 新增余额查询接口，管理员需要看到余额
 
       ![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/shoufeiyuejiekou.jpg)
 
@@ -21,7 +21,7 @@
 
 
 
-用水记录按照年、月、季度统计的数据导出
+#### 用水记录按照年、月、季度统计的数据导出
 
 ![](https://cdn.jsdelivr.net/gh/lixinyuan1213/wmms_dashboard@master/images/yongshuijilu.jpg)
 
